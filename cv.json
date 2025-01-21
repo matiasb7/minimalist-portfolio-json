@@ -1,93 +1,74 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Matias Berger",
+    "label": "Full Stack Developer con más de 3 años de experiencia.",
+    "image": "/me.jpeg",
+    "email": "berger.matias7@gmail.com",
+    "phone": "+54 91167103331",
+    "url": "/",
+    "summary": "Con más de tres años de experiencia en el desarrollo de aplicaciones web, soy un Ingeniero Industrial que ha encontrado su pasión en la tecnología. Mi carrera académica me proporcionó una sólida base analítica y de trabajo en equipo, que he complementado con aprendizaje autodidacta en el ámbito del desarrollo web. Actualmente, me desempeño como Desarrollador Full Stack Senior, donde combino mis habilidades técnicas y sociales para contribuir eficazmente a los proyectos en los que participo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "1431",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://www.linkedin.com/in/mat%C3%ADas-berger-797874115/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "matiasb7",
+        "url": "https://github.com/matiasb7"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Rockstar Coders",
+      "position": "Full Stack Sr Developer",
+      "startDate": "2023-12-01",
+      "url": "https://www.linkedin.com/company/rockstar-coders/posts/?feedView=all",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Me dedico a desarrollar aplicaciones web utilizando: Next Js, Laravel, Docker, AWS, PHP, Python, Wordpress, Tailwind, CSS, entre otras tecnologias.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "Rockstar Coders",
+      "position": "Full Stack Developer",
+      "startDate": "2021-12-01",
+      "endDate": "2023-12-01",
+      "url": "https://www.linkedin.com/company/rockstar-coders/posts/?feedView=all",
+      "summary": "",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Bosch",
+      "position": "E-commerce Analyst",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "startDate": "2021-05-01",
+      "endDate": "2021-12-01",
+      "summary": "Encargado de dar soporte al area de E-commerce mediante diversos analisis, y reportes realizados en herramientas como Power Bi.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad de Buenos Aires",
+    "url": "https://www.fi.uba.ar/",
+    "area": "Ingenieria Industrial",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2017-01-01",
+    "endDate": "2024-01-01"
   }],
   "awards": [{
     "title": "Award",
@@ -110,81 +91,72 @@
   }],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "name": "Javascript",
+      "level": "Master"
     },
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "name": "Typescript",
+      "level": "Master"
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "name": "Node Js",
+      "level": "Master"
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
+      "name": "PHP",
+      "level": "Avanzado"
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
+      "name": "Wordpress",
+      "level": "Avanzado"
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "name": "Adonis JS",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado"
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
+      "level": "Avanzado"
+    },
+    {
+      "name": "Mongo",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Redis",
+      "level": "Avanzado"
+    },
+    {
+      "name": "AWS",
+      "level": "Intermedio"
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "level": "Avanzado"
     },
     {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "name": "Elastic Search",
+      "level": "Avanzado"
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "level": "Avanzado"
+    },
+    {
+      "name": "Express",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Nest.js",
+      "level": "Intermedio"
     },
     {
       "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "level": "Avanzado"
     }
   ],
   "languages": [
@@ -210,66 +182,53 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Typing Speed",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Compite con tus amigos para medir quien escribe mas rapido.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Mide tus WPM",
+        "Compite con amigos"
       ],
-      "url": "https://mars.codes"
+      "url": "https://typing-speed.pro/"
     },
     {
-      "name": "AdventJS",
+      "name": "WP Simple Columns",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Plugin de WP para crear columnas interactivas en bloques GB",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Wordpress",
+        "React"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/matiasb7/wp-simple-columns",
+      "github": "https://github.com/matiasb7/wp-simple-columns"
     },
     {
-      "name": "Codember",
+      "name": "Autocomplete Package",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Paquete de npm para un autocomplete component en react.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "https://www.npmjs.com/package/autocomplete-react-minimalist",
+      "github": "https://github.com/matiasb7/autocomplate-package"
     },
     {
-      "name": "codi.link",
+      "name": "Dolar Bot",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Bot para informarse y consultar las diferentes monedas.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Bot",
+        "Telegram"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "github": "https://github.com/matiasb7/telegram-dollar"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Matea",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Landing Page para negocio de Mate",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Optimizado"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://somosmatea.com.ar/"
     }
   ]
 }
