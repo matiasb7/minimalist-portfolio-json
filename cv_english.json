@@ -189,7 +189,7 @@
         "Measure your WPM",
         "Compete with friends"
       ],
-      "url": "https://typing-speed.pro/"
+      "url": "https://typing.mabr.ink/"
     },
     {
       "name": "WP Simple Columns",
@@ -201,6 +201,16 @@
       ],
       "url": "https://github.com/matiasb7/wp-simple-columns",
       "github": "https://github.com/matiasb7/wp-simple-columns"
+    },
+    {
+      "name": "Loan Calculator",
+      "isActive": true,
+      "description": "Site to calculate the amount of a loan",
+      "highlights": [
+        "Wordpress",
+        "React"
+      ],
+      "url": "https://prestamos.mabr.ink/"
     },
     {
       "name": "Autocomplete Package",

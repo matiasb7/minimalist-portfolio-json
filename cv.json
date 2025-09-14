@@ -203,6 +203,16 @@
       "github": "https://github.com/matiasb7/wp-simple-columns"
     },
     {
+      "name": "Calculadora de Prestamos",
+      "isActive": true,
+      "description": "Sitio para calcular el monto de un prestamo",
+      "highlights": [
+        "Wordpress",
+        "React"
+      ],
+      "url": "https://prestamos.mabr.ink/"
+    },
+    {
       "name": "Autocomplete Package",
       "isActive": true,
       "description": "Paquete de npm para un autocomplete component en react.",
