@@ -157,6 +157,10 @@
     {
       "name": "React",
       "level": "Avanzado"
+    },
+    {
+      "name": "FastAPI",
+      "level": "Avanzado"
     }
   ],
   "languages": [
@@ -181,6 +185,18 @@
     "reference": "Reference…"
   }],
   "projects": [
+    {
+      "name":"Metrika Flow",
+      "isActive": true,
+      "description": "Metrika Flow es una plataforma para realizar trackeo de horas con el fin de poder analizar productividad, eficiencia y costos de los proyectos.",
+      "highlights": [
+        "Trackeo de horas",
+        "Analitica de productividad",
+        "Analitica de eficiencia",
+        "Analitica de costos"
+      ],
+      "url": "https://metrikaflow.com/"
+    },
     {
       "name": "Typing Speed",
       "isActive": true,

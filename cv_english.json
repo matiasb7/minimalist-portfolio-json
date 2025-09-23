@@ -157,6 +157,10 @@
     {
       "name": "React",
       "level": "Advanced"
+    },
+    {
+      "name": "FastAPI",
+      "level": "Advanced"
     }
   ],
   "languages": [
@@ -176,11 +180,19 @@
       "Unicorns"
     ]
   }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
+    {
+      "name":"Metrika Flow",
+      "isActive": true,
+      "description": "Metrika Flow is a platform to track hours with the goal of being able to analyze productivity, efficiency and costs of projects.",
+      "highlights": [
+        "Hours tracking",
+        "Productivity analysis",
+        "Efficiency analysis",
+        "Cost analysis"
+      ],
+      "url": "https://metrikaflow.com/"
+    },
     {
       "name": "Typing Speed",
       "isActive": true,
