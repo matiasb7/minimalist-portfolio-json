@@ -182,7 +182,7 @@
   }],
   "projects": [
     {
-      "name":"Metrika Flow",
+      "name":"Metrika Flow (in progress)",
       "isActive": true,
       "description": "Metrika Flow is a platform to track hours with the goal of being able to analyze productivity, efficiency and costs of projects.",
       "highlights": [
