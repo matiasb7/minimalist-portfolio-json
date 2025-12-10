@@ -215,6 +215,15 @@
       "github": "https://github.com/matiasb7/wp-simple-columns"
     },
     {
+      "name": "Impostor Game",
+      "isActive": true,
+      "description": "Role deduction game",
+      "highlights": [
+        "Vite", "React", "Tailwind", "TypeScript"
+      ],
+      "url": "https://www.impostor-juego.online/"
+    },
+    {
       "name": "Loan Calculator",
       "isActive": true,
       "description": "Site to calculate the amount of a loan",

@@ -219,6 +219,15 @@
       "github": "https://github.com/matiasb7/wp-simple-columns"
     },
     {
+      "name": "Impostor Juego",
+      "isActive": true,
+      "description": "Juego de deduccion de roles",
+      "highlights": [
+        "Vite", "React", "Tailwind", "TypeScript"
+      ],
+      "url": "https://www.impostor-juego.online/"
+    },
+    {
       "name": "Calculadora de Prestamos",
       "isActive": true,
       "description": "Sitio para calcular el monto de un prestamo",
