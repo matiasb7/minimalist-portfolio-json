@@ -186,6 +186,17 @@
   }],
   "projects": [
     {
+      "name": "Libreta",
+      "isActive": true,
+      "description": "Una app para rastrear gastos con IA",
+      "highlights": [
+        "Potenciado por IA",
+        "Rastreo de gastos",
+        "Categorización inteligente"
+      ],
+      "url": "https://libreta.live/"
+    },
+    {
       "name":"Metrika Flow (en progreso)",
       "isActive": true,
       "description": "Metrika Flow es una plataforma para realizar trackeo de horas con el fin de poder analizar productividad, eficiencia y costos de los proyectos.",

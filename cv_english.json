@@ -182,6 +182,17 @@
   }],
   "projects": [
     {
+      "name": "Libreta",
+      "isActive": true,
+      "description": "An app to track expenses with AI",
+      "highlights": [
+        "AI-powered",
+        "Expense tracking",
+        "Smart categorization"
+      ],
+      "url": "https://libreta.live/"
+    },
+    {
       "name":"Metrika Flow (in progress)",
       "isActive": true,
       "description": "Metrika Flow is a platform to track hours with the goal of being able to analyze productivity, efficiency and costs of projects.",
