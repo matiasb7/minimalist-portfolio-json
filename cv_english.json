@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Matias Berger",
-    "label": "Full Stack Developer with more than 4 years of experience.",
+    "label": "Full Stack Developer with more than 5 years of experience.",
     "image": "/me.jpeg",
     "email": "berger.matias7@gmail.com",
     "phone": "+54 91167103331",
     "url": "https://midu.dev",
-    "summary": "With more than four years of experience in web application development, I am an Industrial Engineer who has found his passion in technology. My academic career provided me with a solid analytical and teamwork foundation, which I have complemented with self-taught learning in the field of web development. Currently, I serve as a Senior Full Stack Developer, where I combine my technical and social skills to effectively contribute to the projects I participate in.",
+    "summary": "With more than five years of experience in web application development, I am an Industrial Engineer who has found his passion in technology. My academic career provided me with a solid analytical and teamwork foundation, which I have complemented with self-taught learning in the field of web development. Currently, I serve as a Senior Full Stack Developer, where I combine my technical and social skills to effectively contribute to the projects I participate in.",
     "location": {
       "address": "",
       "postalCode": "1431",
@@ -34,7 +34,7 @@
       "startDate": "2023-12-01",
       "url": "https://www.linkedin.com/company/rockstar-coders/posts/?feedView=all",
       "endDate": null,
-      "summary": "I focus on developing web applications using: Next.js, Laravel, Docker, AWS, PHP, Python, Wordpress, Tailwind, CSS, among other technologies.",
+      "summary": "Leading development of web applications and implementing scalable solutions using TypeScript, Python, Docker, and AWS. Mentoring junior developers and conducting code reviews to ensure best practices. Architecting database solutions and optimizing application performance.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "startDate": "2021-12-01",
       "endDate": "2023-12-01",
       "url": "https://www.linkedin.com/company/rockstar-coders/posts/?feedView=all",
-      "summary": "",
+      "summary": "Developed and maintained web applications for various clients using PHP, Python, WordPress, and React. Collaborated with cross-functional teams to deliver high-quality solutions within deadlines. Implemented RESTful APIs and integrated third-party services.",
       "highlights": [
         "Started the company"
       ]
